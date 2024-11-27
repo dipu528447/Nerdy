@@ -19,4 +19,15 @@
     border: 1px solid rgb(182, 179, 179);
     border-radius: 25px;
 }
+@media only screen and (max-width: 600px) {
+    .button{
+        height: 70px;
+        font-size: 15px;
+        font-weight: 700;
+        padding: 13px 36px;
+        background-color: #D8FB78;
+        border-radius: 99px;
+    }
+    
+}
 
